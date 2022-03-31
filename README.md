@@ -1,6 +1,18 @@
 - 👋 Hi, I’m @urreita9, Francisco Urrea.
 - 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently learning node js to build my backends.
+ 
+  🌱 Techs:
+-         FrontEnd:
+                   CSS/Sass
+                   Javascript
+                   React
+                   Redux
+          Backend:
+                   Node
+                   Express
+                   PostgreSQL
+                   Sequelize   
+                    
 - 💞️ I’m looking to work on a dev team.
 - 📫 You can email me at francisco.urrea9@gmail.com or enter my portfolio site: https://www.franciscourrea.com.ar
 
