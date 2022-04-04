@@ -1,3 +1,4 @@
+![Portfolio Gif](https://github.com/urreita9/urreita9/blob/master/portfolio_gif.gif)
 - 👋 Hi, I’m @urreita9, Francisco Urrea.
 - 👀 I’m interested in mobile and web development.
  
