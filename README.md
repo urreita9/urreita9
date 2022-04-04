@@ -44,7 +44,7 @@ Pokemon App
   <b>React, Sass, Express, Sequelize</b>. 
   <ul>
      <li>Fetch pokemons from an external api.</li>
-     <li>Create pokemons, POST and save them into Relational DB (postgreSQL).</li>
+     <li>Create pokemons, POST and save them into a Relational DB (postgreSQL).</li>
      <li>Search, filter and order forms.</li>
      <li>State managment: <b>Redux</b>.</li>
   </ul>
@@ -75,6 +75,20 @@ E-Commerce - Patrick Mahomes
    </p>
 </a>
 
+<br />
+<h3 align="left" >
+Giphos App.
+</h3>
+
+<p align="left">
+  <b>Html, Sass, Vanilla Javascript</b>. 
+  <ul>
+     <li>Access to your camera and create your own Gipho.</li>
+     <li>Search any gipho you want (external Giphy api).</li>
+     <li>Store them in favorites (localStorage).</li>
+     <li>Responsive Design. Light / Dark modes.</li>
+  </ul>
+</p>
 <a href="https://urreita9.github.io/giphos/">
   <p align="center">
    <img width="300px" height="150px" src="./giphosApp-gh.png" />
