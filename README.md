@@ -103,7 +103,13 @@ And much, much more at 🌐 https://www.franciscourrea.com.ar
 <h3 align="left" >
 📫 francisco.urrea9@gmail.com
 </h3>
+<br />
+ <p>
+ Contact me at: 
+  <code><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></code>
 
+  <br />
+</p>
 <!---
 urreita9/urreita9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
