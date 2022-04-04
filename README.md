@@ -38,19 +38,19 @@
 <br />
 <a href="https://pi-pokemon-topaz.vercel.app/home">
   <p align="center">
-   <img width="300" height="150" src="./pokemon-henry.png" />
+   <img width="300px" height="150px" src="./pokemon-henry.png" />
    </p>
 </a>
 
 <a href="https://patmahomes-store-coderhouse.web.app/">
   <p align="center">
-   <img width="300" height="150" src="./PatMahomes-eCommerce.png" />
+   <img width="300px" height="150px" src="./PatMahomes-eCommerce.png" />
    </p>
 </a>
 
 <a href="https://urreita9.github.io/giphos/">
   <p align="center">
-   <img width="300" height="150" src="./giphosApp-gh.png" />
+   <img width="300px" height="150px" src="./giphosApp-gh.png" />
    </p>
 </a>
  
