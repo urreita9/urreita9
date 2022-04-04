@@ -13,7 +13,6 @@
   <code><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
   <code><img width="100px" height="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="100px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
