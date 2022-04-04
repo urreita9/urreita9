@@ -105,7 +105,7 @@ And much, much more at 🌐 https://www.franciscourrea.com.ar
 </h3>
 <br />
  <p>
- Contact me at: 
+ <b>Contact me at:</b> 
   <br />
   <code><img width="150px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></code>
  
