@@ -36,11 +36,23 @@
 </h2>
 
 <br />
+<h3 align="left" >
+Pokemon App
+</h3>
 <a href="https://pi-pokemon-topaz.vercel.app/home">
   <p align="center">
    <img width="300px" height="150px" src="./pokemon-henry.png" />
    </p>
 </a>
+<p align="left">
+  Pokemon App. React, Redux, Sass, Express, Sequelize. 
+  <ul>
+     <li>Fetch pokemons from an external api</li>
+     <li>Create pokemons, POST and save them into Relational DB (postgreSQL)</li>
+     <li>Search, filter and order forms</li>
+  </ul>
+</p>
+
 
 <a href="https://patmahomes-store-coderhouse.web.app/">
   <p align="center">
