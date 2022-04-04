@@ -45,11 +45,12 @@ Pokemon App
    </p>
 </a>
 <p align="left">
-  Pokemon App. React, Redux, Sass, Express, Sequelize. 
+  Pokemon App. React, Sass, Express, Sequelize. 
   <ul>
      <li>Fetch pokemons from an external api</li>
      <li>Create pokemons, POST and save them into Relational DB (postgreSQL)</li>
      <li>Search, filter and order forms</li>
+     <li>State managment: <b>Redux</b></li>
   </ul>
 </p>
 
