@@ -64,7 +64,7 @@ E-Commerce - Patrick Mahomes
   <b>React, Context Api, Sass, FireStore</b>. 
   <ul>
      <li>Patrick Mahomes clone store.</li>
-     <li>Navigate through the store for Patrick's products.</li>
+     <li>Navigate through the store for Patrick's products. Manage your cart.</li>
      <li>Responsive Design.</li>
      <li>State managment: <b>Context Api</b>.</li>
   </ul>
