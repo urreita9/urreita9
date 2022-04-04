@@ -119,7 +119,7 @@ And much, much more at 🌐 https://www.franciscourrea.com.ar
   
  <a href="https://www.linkedin.com/in/francisco-urrea/"><img width="150px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
  
-  <a href="https://wa.me/005491126435107"><img width="150px" height="100px" src="https://w7.pngwing.com/pngs/392/535/png-transparent-whats-app-application-whatsapp-logo-computer-icons-whatsapp-cdr-text-mobile-phones.png"></a>
+  <a href="https://wa.me/005491126435107"><img width="150px" height="150px" src="https://www.otize.com/wp-content/uploads/2019/09/logo-whatsapp.jpg"></a>
 </p>
 <!---
 urreita9/urreita9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
