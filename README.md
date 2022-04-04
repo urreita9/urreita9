@@ -1,10 +1,10 @@
 ![Portfolio Gif](https://github.com/urreita9/urreita9/blob/master/portfolio_gif.gif)
 
-# 👋 Hello World! I am Francisco Urrea.
 
-<p align="center" >
+
+<h1 align="center" >
  👋 Hello World! I am Francisco Urrea.
-</p>
+</h1>
 - 
 - 👀 I’m interested in mobile and web development.
  
