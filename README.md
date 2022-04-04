@@ -39,22 +39,36 @@
 <h3 align="left" >
 Pokemon App
 </h3>
+
+<p align="left">
+  <b>React, Sass, Express, Sequelize</b>. 
+  <ul>
+     <li>Fetch pokemons from an external api.</li>
+     <li>Create pokemons, POST and save them into Relational DB (postgreSQL).</li>
+     <li>Search, filter and order forms.</li>
+     <li>State managment: <b>Redux</b>.</li>
+  </ul>
+</p>
 <a href="https://pi-pokemon-topaz.vercel.app/home">
   <p align="center">
    <img width="300px" height="150px" src="./pokemon-henry.png" />
    </p>
 </a>
+
+<br />
+<h3 align="left" >
+E-Commerce - Patrick Mahomes
+</h3>
+
 <p align="left">
-  Pokemon App. React, Sass, Express, Sequelize. 
+  <b>React, Context Api, Sass, FireStore</b>. 
   <ul>
-     <li>Fetch pokemons from an external api</li>
-     <li>Create pokemons, POST and save them into Relational DB (postgreSQL)</li>
-     <li>Search, filter and order forms</li>
-     <li>State managment: <b>Redux</b></li>
+     <li>Patrick Mahomes clone store.</li>
+     <li>Navigate through the store for Patrick's products.</li>
+     <li>Responsive Design.</li>
+     <li>State managment: <b>Context Api</b>.</li>
   </ul>
 </p>
-
-
 <a href="https://patmahomes-store-coderhouse.web.app/">
   <p align="center">
    <img width="300px" height="150px" src="./PatMahomes-eCommerce.png" />
