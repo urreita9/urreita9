@@ -7,6 +7,7 @@
 </h1>
 - 
 - ##⚡️ Techs and Tools:
+ <br>
  <p>
   <code><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
   <code><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
