@@ -106,11 +106,14 @@ And much, much more at 🌐 https://www.franciscourrea.com.ar
 <br />
  <p>
  <h2 align="left" >
- <b>Contact me at:</b> 
-  </h2>
-  <br />
-  📫 francisco.urrea9@gmail.com
-  <a href="https://www.linkedin.com/in/francisco-urrea/"><img width="150px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
+   <b>Contact me at:</b> 
+ </h2>
+ <br />
+  <h3 align="left" >
+    📫 francisco.urrea9@gmail.com
+  </h3>
+  
+ <a href="https://www.linkedin.com/in/francisco-urrea/"><img width="150px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
  
 </p>
 <!---
