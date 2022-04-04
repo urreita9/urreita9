@@ -5,8 +5,9 @@
 <h1 align="center" >
  Full Stack Developer - from 🌎 Argentina with ❤️
 </h1>
--
-&nbsp;&nbsp;
+
+&nbsp;
+&nbsp;
 
 <h2 align="left" >
 ⚡️ Techs and Tools:
