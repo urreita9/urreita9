@@ -49,7 +49,7 @@
      <li>State managment: <b>Redux</b>.</li>
   </ul>
 </p>
-<a href="https://pi-pokemon-topaz.vercel.app/home" target="_blank">
+<a href="https://pi-pokemon-topaz.vercel.app/home">
   <p align="center">
    <img width="300px" height="150px" src="./pokemon-henry.png" />
    </p>
@@ -69,7 +69,7 @@
      <li>State managment: <b>Context Api</b>.</li>
   </ul>
 </p>
-<a href="https://patmahomes-store-coderhouse.web.app/" target="_blank">
+<a href="https://patmahomes-store-coderhouse.web.app/">
   <p align="center">
    <img width="300px" height="150px" src="./PatMahomes-eCommerce.png" />
    </p>
@@ -89,7 +89,7 @@
      <li>Responsive Design. Light / Dark modes.</li>
   </ul>
 </p>
-<a href="https://urreita9.github.io/giphos/" target="_blank">
+<a href="https://urreita9.github.io/giphos/">
   <p align="center">
    <img width="300px" height="150px" src="./giphosApp-gh.png" />
    </p>
@@ -107,7 +107,7 @@ And much, much more at 🌐 https://www.franciscourrea.com.ar
  <p>
  <b>Contact me at:</b> 
   <br />
-  <a href="https://www.linkedin.com/in/francisco-urrea/" target="_blank"><img width="150px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
+  <a href="https://www.linkedin.com/in/francisco-urrea/"><img width="150px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></a>
  
 </p>
 <!---
@@ -117,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://www.franciscourrea.com.ar" target="_blank">
+<a href="https://www.franciscourrea.com.ar">
   <p align="center">
    <img height="150" src="./portfolio_gif.gif" />
    </p>
