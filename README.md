@@ -8,7 +8,7 @@
 - 
 - ##⚡️ Techs and Tools:
  <p>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
