@@ -1,7 +1,7 @@
 ![Portfolio Gif](https://github.com/urreita9/urreita9/blob/master/portfolio_gif.gif)
 
 <p align="center">
- 👋 Hello World! I am Francisco Urrea.
+ 👋 **Hello World! I am Francisco Urrea.**
 </p>
 - 
 - 👀 I’m interested in mobile and web development.
