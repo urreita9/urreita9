@@ -1,6 +1,8 @@
 ![Portfolio Gif](https://github.com/urreita9/urreita9/blob/master/portfolio_gif.gif)
 
-<p align="center" color="red">
+# 👋 Hello World! I am Francisco Urrea.
+
+<p align="center" >
  👋 Hello World! I am Francisco Urrea.
 </p>
 - 
