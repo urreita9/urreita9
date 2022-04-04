@@ -37,7 +37,7 @@
 
 <br />
 <h3 align="left" >
-Pokemon App
+🐻‍❄️ Pokemon App
 </h3>
 
 <p align="left">
@@ -57,7 +57,7 @@ Pokemon App
 
 <br />
 <h3 align="left" >
-E-Commerce - Patrick Mahomes
+🏈 E-Commerce - Patrick Mahomes
 </h3>
 
 <p align="left">
@@ -77,7 +77,7 @@ E-Commerce - Patrick Mahomes
 
 <br />
 <h3 align="left" >
-Giphos App.
+🎬 Giphos App.
 </h3>
 
 <p align="left">
@@ -97,12 +97,12 @@ Giphos App.
  
 <br />
 <h3 align="left" >
-And much, much more at https://www.franciscourrea.com.ar
+And much, much more at 🌐 https://www.franciscourrea.com.ar
 </h3>
 
-                    
-- 💞️ I’m looking to work on a dev team.
-- 📫 You can email me at francisco.urrea9@gmail.com or enter my portfolio site: https://www.franciscourrea.com.ar
+<h3 align="left" >
+📫 francisco.urrea9@gmail.com
+</h3>
 
 <!---
 urreita9/urreita9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
