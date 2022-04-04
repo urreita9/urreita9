@@ -106,8 +106,9 @@ And much, much more at 🌐 https://www.franciscourrea.com.ar
 <br />
  <p>
  Contact me at: 
-  <code><img width="150px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></code>
   <br />
+  <code><img width="150px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"></code>
+ 
 </p>
 <!---
 urreita9/urreita9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
