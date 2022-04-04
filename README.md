@@ -7,7 +7,11 @@
 </h1>
 -
 &nbsp;&nbsp;
-##⚡️ Techs and Tools:
+
+<h2 align="left" >
+⚡️ Techs and Tools:
+</h2>
+
 
 <br />
  <p>
@@ -27,17 +31,7 @@
           
    
  
-  🌱 Techs:
--         FrontEnd:
-                   CSS/Sass
-                   Javascript
-                   React
-                   Redux
-          Backend:
-                   Node
-                   Express
-                   PostgreSQL
-                   Sequelize   
+
                     
 - 💞️ I’m looking to work on a dev team.
 - 📫 You can email me at francisco.urrea9@gmail.com or enter my portfolio site: https://www.franciscourrea.com.ar
