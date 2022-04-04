@@ -29,8 +29,18 @@
   <br />
 </p>
 
-          
-   
+<br />
+
+<h2 align="left" >
+🚀 Some Proyects:
+</h2>
+
+<br />
+<a href="https://www.franciscourrea.com.ar">
+  <p align="center">
+   <img height="150" src="./portfolio_gif.gif" />
+   </p>
+</a>
  
 
                     
