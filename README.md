@@ -23,13 +23,13 @@
   <code><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
   <code><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
   <code><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+  <code><img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
   <code><img width="100px" height="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="100px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
   <br />
 </p>
 
