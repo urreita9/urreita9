@@ -53,7 +53,7 @@
 </p>
 <a href="[Movies App](https://github.com/urreita9/movies_app)">
   <p align="center">
-   <img width="300px" height="150px" src="./movies_app.png" />
+   <img width="150px" height="300px" src="./movies_app.png" />
    </p>
 </a>
 
