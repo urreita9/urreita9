@@ -39,6 +39,24 @@
 🚀 Some Proyects:
 </h2>
 
+<h3 align="left" >
+🎥 Movies App
+</h3>
+
+<p align="left">
+  <b>React Native CLI</b>. 
+  <ul>
+     <li>Fetch movies from an external api.</li>
+     <li>Get the movie poster, cast and resume.</li>
+     <li>Scroll and watch the animations</li>
+  </ul>
+</p>
+<a href="[Movies App](https://github.com/urreita9/movies_app)">
+  <p align="center">
+   <img width="300px" height="150px" src="./pokemon-henry.png" />
+   </p>
+</a>
+
 <br />
 <h3 align="left" >
 🐻‍❄️ Pokemon App
