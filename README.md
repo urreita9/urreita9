@@ -7,7 +7,7 @@
 
 
 <h1 align="center" >
- Full Stack Developer - from 🌎 Argentina with ❤️
+ Frontend Developer - from 🌎 Argentina with ❤️
 </h1>
 
 &nbsp;
