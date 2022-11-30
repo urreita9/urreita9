@@ -51,7 +51,7 @@
      <li>Scroll and watch the animations</li>
   </ul>
 </p>
-<a href="[Movies App](https://github.com/urreita9/movies_app)">
+<a href="https://github.com/urreita9/movies_app">
   <p align="center">
    <img width="150px" height="300px" src="./movies_app.png" />
    </p>
